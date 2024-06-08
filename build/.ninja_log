@@ -1,0 +1,6 @@
+# ninja log v5
+8	456	7395288778305731	CMakeFiles/lab7.dir/shape.cpp.obj	7dc4542f274deca7
+5	467	7395288778360623	CMakeFiles/lab7.dir/movableShape.cpp.obj	edfdabf7e96e5dea
+6	9010	7395290344194431	CMakeFiles/lab7.dir/main.cpp.obj	d52fdafe79d769a9
+474	590	7395288779589726	lab7.exe	c944fc577e86687b
+16	119	7395290817435604	lab7.exe	c944fc577e86687b

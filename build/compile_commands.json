@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/tpu/programming/lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab7.dir\\main.cpp.obj -c D:\\tpu\\programming\\lab7\\main.cpp",
+  "file": "D:\\tpu\\programming\\lab7\\main.cpp",
+  "output": "CMakeFiles\\lab7.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/tpu/programming/lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab7.dir\\movableShape.cpp.obj -c D:\\tpu\\programming\\lab7\\movableShape.cpp",
+  "file": "D:\\tpu\\programming\\lab7\\movableShape.cpp",
+  "output": "CMakeFiles\\lab7.dir\\movableShape.cpp.obj"
+},
+{
+  "directory": "D:/tpu/programming/lab7/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\lab7.dir\\shape.cpp.obj -c D:\\tpu\\programming\\lab7\\shape.cpp",
+  "file": "D:\\tpu\\programming\\lab7\\shape.cpp",
+  "output": "CMakeFiles\\lab7.dir\\shape.cpp.obj"
+}
+]

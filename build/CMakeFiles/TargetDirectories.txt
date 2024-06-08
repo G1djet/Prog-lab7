@@ -1,0 +1,3 @@
+D:/tpu/programming/lab7/build/CMakeFiles/lab7.dir
+D:/tpu/programming/lab7/build/CMakeFiles/edit_cache.dir
+D:/tpu/programming/lab7/build/CMakeFiles/rebuild_cache.dir
