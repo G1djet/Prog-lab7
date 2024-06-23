@@ -16,7 +16,7 @@ int main() {
 
     int choice;
     do {
-        std::cout << "\nМеню:" << std::endl;
+        std::cout << "\nMenu:" << std::endl;
         std::cout << "1. Check if the point belongs to the border" << std::endl;
         std::cout << "2. Check if the shape intersects the X-axis" << std::endl;
         std::cout << "3. Check if the shape intersects the Y axis" << std::endl;
